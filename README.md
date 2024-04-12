@@ -20,7 +20,7 @@ To run the application locally, follow these steps:
 
 ## Credits
 
-This application was created by Aparna Anand, inspired by the teachings of Krish Naik. A special thanks to Krish Naik for sharing knowledge and providing guidance.
+This application was created by Aparna Anand, inspired by the teachings of Krish Naik (https://github.com/krishnaik06). A special thanks to Krish Naik for sharing knowledge and providing guidance.
 
 ## License
 
